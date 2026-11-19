@@ -1,0 +1,5 @@
+year,shipments_month,tons_per_shipment,price_tl_kg,active_buyers,active_producers,active_carriers,annual_tons,product_gmv_tl,freight_tl,platform_revenue_tl,contribution_tl,bank_originations_scenario_tl,insurance_premium_scenario_tl
+1,100,10,14,50,200,30,12000,168000000,14400000,7920000,3024000,84000000,600000
+2,400,10,14,200,800,120,48000,672000000,57600000,31680000,12096000,336000000,2400000
+3,1000,10,14,500,2000,300,120000,1680000000,144000000,79200000,30240000,840000000,6000000
+
