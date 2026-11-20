@@ -19,3 +19,10 @@ Durum: Hipotezler ve örnek hesaplar saha doğrulaması bekliyor. Banka/sigorta 
 
 
 Lisans: [MIT](LICENSE). Harici kaynaklar kendi haklarına tabidir.
+
+## Faz 1 — Market Intelligence (20.11.2026)
+- [Bölgesel arz, talep ve doğrulama](docs/09-market-intelligence.md)
+- [İl bazlı üretim verisi](data/regional-production.csv)
+- [Alıcı segmenti senaryoları](data/demand-scenarios.csv)
+- [Saha araştırma kılavuzu](research/field-validation.md)
+- [AS-IS sevkiyat boş şablonu](data/templates/as-is-shipment.csv)

@@ -1,0 +1,5 @@
+scenario,segment,active_buyers,tons_per_buyer_month,total_tons_month,status
+Y1_base,wholesale,5,100,500,HYPOTHESIS
+Y1_base,processing,10,25,250,HYPOTHESIS
+Y1_base,catering,15,10,150,HYPOTHESIS
+Y1_base,market_dc,20,5,100,HYPOTHESIS
